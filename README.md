@@ -1,6 +1,6 @@
 # ExploreBooks - Full Stack CRUD Practice Project - [https://explorebooks.vercel.app](https://explorebooks.vercel.app)
 
-ExploreBooks is a web application developed to practice full stack development with CRUD capabilities. The main focus of the project is to provide users with the ability to explore, upload, edit, and manage PDF books while also allowing them to bookmark their favorite titles. The application has been built using modern technologies to ensure a seamless and user-friendly experience.
+ExploreBooks is a web application developed to practice full stack development with CRUD capabilities. The main focus of the project is to provide users with the ability to add, upload, edit, and manage PDF books while also allowing them to bookmark their favorite titles. The application has been built using modern technologies to ensure a seamless and user-friendly experience.
 
 ## Features
 
